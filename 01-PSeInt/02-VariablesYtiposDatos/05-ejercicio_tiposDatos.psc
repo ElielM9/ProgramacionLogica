@@ -9,14 +9,14 @@ Algoritmo ejercicio_tiposDatos
 	Leer edad 
 	
 	Definir sueldo Como Real
-	Imprimir "Escribe tu sueldo en dólares: "
+	Imprimir "Escribe tu sueldo en dï¿½lares: "
 	Leer sueldo 
 	
 	Definir empleadoDeConfianza Como Logico
-	Imprimir  "¿Eres un empleado de confianza?"
+	Imprimir  "ï¿½Eres un empleado de confianza?"
 	Leer empleadoDeConfianza
 	
-	Imprimir "Tu información es: "
+	Imprimir "Tu informacion es: "
 	Imprimir "Nombre: ", nombreCompleto
 	Imprimir "Edad: ", edad
 	Imprimir "Sueldo: ", sueldo
