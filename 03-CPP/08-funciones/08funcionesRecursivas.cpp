@@ -16,7 +16,6 @@ int main()
 
 void funcionRecursiva(int numero)
 {
-
     // Caso base
     if (numero == 1){
         cout << "Valor recursivo " << numero << endl;

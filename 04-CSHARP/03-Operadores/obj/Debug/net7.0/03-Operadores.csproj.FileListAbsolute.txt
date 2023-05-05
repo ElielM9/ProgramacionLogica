@@ -1,0 +1,15 @@
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/03-Operadores/bin/Debug/net7.0/03-Operadores
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/03-Operadores/bin/Debug/net7.0/03-Operadores.deps.json
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/03-Operadores/bin/Debug/net7.0/03-Operadores.runtimeconfig.json
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/03-Operadores/bin/Debug/net7.0/03-Operadores.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/03-Operadores/bin/Debug/net7.0/03-Operadores.pdb
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/03-Operadores/obj/Debug/net7.0/03-Operadores.csproj.AssemblyReference.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/03-Operadores/obj/Debug/net7.0/03-Operadores.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/03-Operadores/obj/Debug/net7.0/03-Operadores.AssemblyInfoInputs.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/03-Operadores/obj/Debug/net7.0/03-Operadores.AssemblyInfo.cs
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/03-Operadores/obj/Debug/net7.0/03-Operadores.csproj.CoreCompileInputs.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/03-Operadores/obj/Debug/net7.0/03-Operadores.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/03-Operadores/obj/Debug/net7.0/refint/03-Operadores.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/03-Operadores/obj/Debug/net7.0/03-Operadores.pdb
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/03-Operadores/obj/Debug/net7.0/03-Operadores.genruntimeconfig.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/03-Operadores/obj/Debug/net7.0/ref/03-Operadores.dll

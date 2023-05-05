@@ -33,7 +33,6 @@ int main()
         cout << "Valor " << i << ": " << numeros[i] << endl;
     }
 
-  
 
 
 

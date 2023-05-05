@@ -1,5 +1,4 @@
-// Funciones recursivas en C:
-// Son funciones que se llaman a sí mismas y, cada vez que se mandan a llamar tiene que acercarse a un caso base
+// Funciones recursivas en C: Son funciones que se llaman a sí mismas y, cada vez que se mandan a llamar tiene que acercarse a un caso base
 #include <stdio.h>
 
 // Declaracion de la funcion

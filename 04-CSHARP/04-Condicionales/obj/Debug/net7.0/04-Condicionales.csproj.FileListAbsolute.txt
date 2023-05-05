@@ -1,0 +1,15 @@
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/04-Condicionales/obj/Debug/net7.0/04-Condicionales.csproj.AssemblyReference.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/04-Condicionales/obj/Debug/net7.0/04-Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/04-Condicionales/obj/Debug/net7.0/04-Condicionales.AssemblyInfoInputs.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/04-Condicionales/obj/Debug/net7.0/04-Condicionales.AssemblyInfo.cs
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/04-Condicionales/obj/Debug/net7.0/04-Condicionales.csproj.CoreCompileInputs.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/04-Condicionales/bin/Debug/net7.0/04-Condicionales
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/04-Condicionales/bin/Debug/net7.0/04-Condicionales.deps.json
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/04-Condicionales/bin/Debug/net7.0/04-Condicionales.runtimeconfig.json
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/04-Condicionales/bin/Debug/net7.0/04-Condicionales.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/04-Condicionales/bin/Debug/net7.0/04-Condicionales.pdb
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/04-Condicionales/obj/Debug/net7.0/04-Condicionales.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/04-Condicionales/obj/Debug/net7.0/refint/04-Condicionales.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/04-Condicionales/obj/Debug/net7.0/04-Condicionales.pdb
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/04-Condicionales/obj/Debug/net7.0/04-Condicionales.genruntimeconfig.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/04-Condicionales/obj/Debug/net7.0/ref/04-Condicionales.dll

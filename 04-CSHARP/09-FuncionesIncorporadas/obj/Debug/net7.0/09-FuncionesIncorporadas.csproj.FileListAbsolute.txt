@@ -1,0 +1,15 @@
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/09-FuncionesIncorporadas/obj/Debug/net7.0/09-FuncionesIncorporadas.csproj.AssemblyReference.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/09-FuncionesIncorporadas/obj/Debug/net7.0/09-FuncionesIncorporadas.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/09-FuncionesIncorporadas/obj/Debug/net7.0/09-FuncionesIncorporadas.AssemblyInfoInputs.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/09-FuncionesIncorporadas/obj/Debug/net7.0/09-FuncionesIncorporadas.AssemblyInfo.cs
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/09-FuncionesIncorporadas/obj/Debug/net7.0/09-FuncionesIncorporadas.csproj.CoreCompileInputs.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/09-FuncionesIncorporadas/bin/Debug/net7.0/09-FuncionesIncorporadas
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/09-FuncionesIncorporadas/bin/Debug/net7.0/09-FuncionesIncorporadas.deps.json
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/09-FuncionesIncorporadas/bin/Debug/net7.0/09-FuncionesIncorporadas.runtimeconfig.json
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/09-FuncionesIncorporadas/bin/Debug/net7.0/09-FuncionesIncorporadas.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/09-FuncionesIncorporadas/bin/Debug/net7.0/09-FuncionesIncorporadas.pdb
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/09-FuncionesIncorporadas/obj/Debug/net7.0/09-FuncionesIncorporadas.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/09-FuncionesIncorporadas/obj/Debug/net7.0/refint/09-FuncionesIncorporadas.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/09-FuncionesIncorporadas/obj/Debug/net7.0/09-FuncionesIncorporadas.pdb
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/09-FuncionesIncorporadas/obj/Debug/net7.0/09-FuncionesIncorporadas.genruntimeconfig.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/09-FuncionesIncorporadas/obj/Debug/net7.0/ref/09-FuncionesIncorporadas.dll

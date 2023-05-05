@@ -1,0 +1,15 @@
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/05-Ciclos/bin/Debug/net7.0/05-Ciclos
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/05-Ciclos/bin/Debug/net7.0/05-Ciclos.deps.json
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/05-Ciclos/bin/Debug/net7.0/05-Ciclos.runtimeconfig.json
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/05-Ciclos/bin/Debug/net7.0/05-Ciclos.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/05-Ciclos/bin/Debug/net7.0/05-Ciclos.pdb
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/05-Ciclos/obj/Debug/net7.0/05-Ciclos.csproj.AssemblyReference.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/05-Ciclos/obj/Debug/net7.0/05-Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/05-Ciclos/obj/Debug/net7.0/05-Ciclos.AssemblyInfoInputs.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/05-Ciclos/obj/Debug/net7.0/05-Ciclos.AssemblyInfo.cs
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/05-Ciclos/obj/Debug/net7.0/05-Ciclos.csproj.CoreCompileInputs.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/05-Ciclos/obj/Debug/net7.0/05-Ciclos.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/05-Ciclos/obj/Debug/net7.0/refint/05-Ciclos.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/05-Ciclos/obj/Debug/net7.0/05-Ciclos.pdb
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/05-Ciclos/obj/Debug/net7.0/05-Ciclos.genruntimeconfig.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/05-Ciclos/obj/Debug/net7.0/ref/05-Ciclos.dll

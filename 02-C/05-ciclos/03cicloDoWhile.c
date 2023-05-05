@@ -6,7 +6,6 @@ int main()
 {
     // Definir variables
     int numero;
-
     bool condicion;
     // Do While
     do

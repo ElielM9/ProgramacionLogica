@@ -1,0 +1,15 @@
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/08-Funciones/bin/Debug/net7.0/08-Funciones
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/08-Funciones/bin/Debug/net7.0/08-Funciones.deps.json
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/08-Funciones/bin/Debug/net7.0/08-Funciones.runtimeconfig.json
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/08-Funciones/bin/Debug/net7.0/08-Funciones.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/08-Funciones/bin/Debug/net7.0/08-Funciones.pdb
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/08-Funciones/obj/Debug/net7.0/08-Funciones.csproj.AssemblyReference.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/08-Funciones/obj/Debug/net7.0/08-Funciones.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/08-Funciones/obj/Debug/net7.0/08-Funciones.AssemblyInfoInputs.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/08-Funciones/obj/Debug/net7.0/08-Funciones.AssemblyInfo.cs
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/08-Funciones/obj/Debug/net7.0/08-Funciones.csproj.CoreCompileInputs.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/08-Funciones/obj/Debug/net7.0/08-Funciones.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/08-Funciones/obj/Debug/net7.0/refint/08-Funciones.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/08-Funciones/obj/Debug/net7.0/08-Funciones.pdb
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/08-Funciones/obj/Debug/net7.0/08-Funciones.genruntimeconfig.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/08-Funciones/obj/Debug/net7.0/ref/08-Funciones.dll

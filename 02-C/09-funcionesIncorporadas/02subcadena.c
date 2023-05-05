@@ -8,10 +8,10 @@ int main()
     char subcadena[10];
 
     // Se copia a partir del caracter indicado de inicio e indicamos cuantos caracteres se copian.
-    int inicio = 0, nCaraceres = 4;
+    int inicio = 0, nCaracteres = 4;
 
-    strncpy(subcadena, &cadena[inicio], nCaraceres);
-    subcadena[nCaraceres];
+    strncpy(subcadena, &cadena[inicio], nCaracteres);
+    subcadena[nCaracteres];
 
     printf("Cadena original: %s\n", cadena);
     printf("Subcadena: %s\n", subcadena);

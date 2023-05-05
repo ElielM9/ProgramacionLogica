@@ -5,7 +5,6 @@ using namespace std;
 // Definir funcion (Procedimientto porque no regresa un valor)
 void saludar(string mensaje)
 {
-
     cout << "Mensaje: " << mensaje << endl;
 }
 

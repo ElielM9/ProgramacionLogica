@@ -1,0 +1,15 @@
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/07-Matrices/bin/Debug/net7.0/07-Matrices
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/07-Matrices/bin/Debug/net7.0/07-Matrices.deps.json
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/07-Matrices/bin/Debug/net7.0/07-Matrices.runtimeconfig.json
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/07-Matrices/bin/Debug/net7.0/07-Matrices.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/07-Matrices/bin/Debug/net7.0/07-Matrices.pdb
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/07-Matrices/obj/Debug/net7.0/07-Matrices.csproj.AssemblyReference.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/07-Matrices/obj/Debug/net7.0/07-Matrices.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/07-Matrices/obj/Debug/net7.0/07-Matrices.AssemblyInfoInputs.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/07-Matrices/obj/Debug/net7.0/07-Matrices.AssemblyInfo.cs
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/07-Matrices/obj/Debug/net7.0/07-Matrices.csproj.CoreCompileInputs.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/07-Matrices/obj/Debug/net7.0/07-Matrices.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/07-Matrices/obj/Debug/net7.0/refint/07-Matrices.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/07-Matrices/obj/Debug/net7.0/07-Matrices.pdb
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/07-Matrices/obj/Debug/net7.0/07-Matrices.genruntimeconfig.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/07-Matrices/obj/Debug/net7.0/ref/07-Matrices.dll

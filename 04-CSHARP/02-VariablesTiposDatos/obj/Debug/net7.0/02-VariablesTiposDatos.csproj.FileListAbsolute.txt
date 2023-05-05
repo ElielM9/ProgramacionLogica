@@ -1,0 +1,15 @@
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/02-VariablesTiposDatos/bin/Debug/net7.0/02-VariablesTiposDatos
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/02-VariablesTiposDatos/bin/Debug/net7.0/02-VariablesTiposDatos.deps.json
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/02-VariablesTiposDatos/bin/Debug/net7.0/02-VariablesTiposDatos.runtimeconfig.json
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/02-VariablesTiposDatos/bin/Debug/net7.0/02-VariablesTiposDatos.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/02-VariablesTiposDatos/bin/Debug/net7.0/02-VariablesTiposDatos.pdb
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/02-VariablesTiposDatos/obj/Debug/net7.0/02-VariablesTiposDatos.csproj.AssemblyReference.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/02-VariablesTiposDatos/obj/Debug/net7.0/02-VariablesTiposDatos.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/02-VariablesTiposDatos/obj/Debug/net7.0/02-VariablesTiposDatos.AssemblyInfoInputs.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/02-VariablesTiposDatos/obj/Debug/net7.0/02-VariablesTiposDatos.AssemblyInfo.cs
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/02-VariablesTiposDatos/obj/Debug/net7.0/02-VariablesTiposDatos.csproj.CoreCompileInputs.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/02-VariablesTiposDatos/obj/Debug/net7.0/02-VariablesTiposDatos.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/02-VariablesTiposDatos/obj/Debug/net7.0/refint/02-VariablesTiposDatos.dll
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/02-VariablesTiposDatos/obj/Debug/net7.0/02-VariablesTiposDatos.pdb
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/02-VariablesTiposDatos/obj/Debug/net7.0/02-VariablesTiposDatos.genruntimeconfig.cache
+/mnt/c/Users/eliel/Desktop/LogicaProgramación/04-CSHARP/02-VariablesTiposDatos/obj/Debug/net7.0/ref/02-VariablesTiposDatos.dll

@@ -4,7 +4,6 @@
 int main()
 {
     int diaSemana;
-
     printf("Proporciona un dia de la semana: \n");
     scanf("%d", &diaSemana);
 
