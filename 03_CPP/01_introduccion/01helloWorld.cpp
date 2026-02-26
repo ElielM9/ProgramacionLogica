@@ -1,6 +1,6 @@
 // Hola mundo en C++
 #include <iostream>
-using namespace std; 
+using namespace std;
 
 int main()
 {
